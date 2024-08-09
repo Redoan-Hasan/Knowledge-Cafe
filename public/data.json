@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.postimg.cc/d0zwGW3J/1.jpg",
+        "title": "How to get your first job as a self-taught programmer",
+        "author": "Cristiano Ronaldo",
+        "author_img": "https://i.postimg.cc/85RQMNxb/boy1.png",
+        "posted_date": "March 14",
+        "reading_time": 5,
+        "hashtags": ["#beginners", "#programming"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.postimg.cc/hjWRXfZj/2.png",
+        "title": "How to get your first job as a self-taught programmer",
+        "author": "David Beckham",
+        "author_img": "https://i.postimg.cc/j2cp3vxw/boy2.jpg",
+        "posted_date": "March 14",
+        "reading_time": 10,
+        "hashtags": ["#beginners", "#programming"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.postimg.cc/kMyP5MQJ/3.png",
+        "title": "How to get your first job as a self-taught programmer",
+        "author": "Lionel Messi",
+        "author_img": "https://i.postimg.cc/nccb982v/girl1.jpg",
+        "posted_date": "March 14",
+        "reading_time": 12,
+        "hashtags": ["#beginners", "#programming"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.postimg.cc/MHzkYgSJ/4.jpg",
+        "title": "How to get your first job as a self-taught programmer",
+        "author": "Redoan Hasan",
+        "author_img": "https://i.postimg.cc/15CxpW7b/girl2.jpg",
+        "posted_date": "March 14",
+        "reading_time": 15,
+        "hashtags": ["#beginners", "#programming"]
+    }
+]
